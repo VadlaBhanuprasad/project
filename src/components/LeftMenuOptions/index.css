@@ -1,0 +1,81 @@
+
+*{
+    font-family: "Roboto";
+}
+.left-menu-options{
+    width: 272px;
+    padding:20px 16px 16px 40px ;
+   
+    
+}
+.icon-container{
+    display: flex;
+    align-items: center;
+    
+}
+.icon{
+    height: 30px;
+    width: 30px;
+   
+}
+.icon-label{
+    font-family: "Roboto";
+    font-size: 17px;
+    font-weight: 400;
+    margin-left: 10px;
+}
+.option-title{
+    font-size: 20px;
+    color: #000000;
+    font-weight: 500;
+    font-family: "Roboto";
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-left: 6px;
+}
+.option-name{
+    font-size: 20px;
+    color: #000000;
+    font-weight: 300;
+    font-family: "Roboto";
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-left: 6px;
+   
+}
+
+.list-title{
+    font-size: 20px;
+    color: #000000;
+    font-weight: 500;
+    font-family: "Roboto";
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-left: 6px;
+}
+.list-name{
+    font-size: 20px;
+    color: #000000;
+    font-weight: 300;
+    font-family: "Roboto";
+    line-height: 1.6;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-left: 6px;
+}
+.activate-button{
+    background-color: #E2EAF4;
+    
+    
+}
+.list-container{
+    list-style-type: none;
+    padding-left: 0px;
+    
+}
+.servies-div{
+    margin-top: 35px;
+}
+.other-list-div{
+    margin-top: 35px;
+}

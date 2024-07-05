@@ -1,0 +1,11 @@
+.table-with-edit-delete{
+    display: flex;
+    align-items: center;
+}
+.row{
+    width: 80%;
+}
+.delete-edit-div{
+    display: flex;
+    
+}

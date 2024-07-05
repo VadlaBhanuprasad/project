@@ -1,0 +1,45 @@
+.table{
+    list-style-type: none;
+    padding-left: 0px;
+    width: 80%;
+}
+.column-title{
+    font-size: 18px;
+    color: #000000;
+    font-weight: 500;
+}
+.column-airport{
+    display: flex;
+    align-items: center;
+    border: 1px solid #E2EAF4;
+    padding-left: 10px;
+}
+.table-container{
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    padding-left: 50px;
+}
+.checkbox-div{
+    width: 50%;
+    display: flex;
+    align-items: flex-start;
+}
+.country-div{
+    width: 20%;
+    display: flex;
+    align-items: center;
+}
+.code-div{
+    width: 12%;
+    display: flex;
+    align-items: center;
+}
+.terminals-div{
+    width: 18%;
+    display: flex;
+    align-items: center;
+}
+.check-box{
+    margin-right: 10px;
+}
